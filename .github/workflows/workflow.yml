@@ -51,6 +51,10 @@ jobs:
         with: 
           app-name: ${{ env.AZURE_WEBAPP_NAME }}
           package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+      
+      - name: Warm up web site
+        run: |
+          curl https://$AZURE_WEBAPP_NAME.azurewebsites.net
 
   loadTest:
     name: Load Test
