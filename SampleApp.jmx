@@ -14,12 +14,12 @@
     <hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="jp@gc - Ultimate Thread Group" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="1786117920">
+          <collectionProp name="450079">
             <stringProp name="1567">10</stringProp>
-            <stringProp name="48">0</stringProp>
+            <stringProp name="0">0</stringProp>
             <stringProp name="1722">60</stringProp>
             <stringProp name="48687">120</stringProp>
-            <stringProp name="10">5</stringProp>
+            <stringProp name="53">5</stringProp>
           </collectionProp>
         </collectionProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
@@ -51,13 +51,13 @@
         <hashTree/>
         <kg.apc.jmeter.timers.VariableThroughputTimer guiclass="kg.apc.jmeter.timers.VariableThroughputTimerGui" testclass="kg.apc.jmeter.timers.VariableThroughputTimer" testname="jp@gc - Throughput Shaping Timer" enabled="true">
           <collectionProp name="load_profile">
-            <collectionProp name="-751117643">
-              <stringProp name="1567">10</stringProp>
-              <stringProp name="48780">150</stringProp>
+            <collectionProp name="140475104">
+              <stringProp name="49">1</stringProp>
+              <stringProp name="49">1</stringProp>
               <stringProp name="1722">60</stringProp>
             </collectionProp>
-            <collectionProp name="-1865747060">
-              <stringProp name="48780">150</stringProp>
+            <collectionProp name="1070854005">
+              <stringProp name="1691">50</stringProp>
               <stringProp name="48780">150</stringProp>
               <stringProp name="48687">120</stringProp>
             </collectionProp>
@@ -67,7 +67,7 @@
       </hashTree>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="jp@gc - Ultimate Thread Group" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="-1761292425">
+          <collectionProp name="1786117920">
             <stringProp name="1567">10</stringProp>
             <stringProp name="48">0</stringProp>
             <stringProp name="1722">60</stringProp>
@@ -111,13 +111,13 @@
         <hashTree/>
         <kg.apc.jmeter.timers.VariableThroughputTimer guiclass="kg.apc.jmeter.timers.VariableThroughputTimerGui" testclass="kg.apc.jmeter.timers.VariableThroughputTimer" testname="jp@gc - Throughput Shaping Timer" enabled="true">
           <collectionProp name="load_profile">
-            <collectionProp name="-751117643">
-              <stringProp name="1567">10</stringProp>
-              <stringProp name="48780">150</stringProp>
+            <collectionProp name="140475104">
+              <stringProp name="49">1</stringProp>
+              <stringProp name="49">1</stringProp>
               <stringProp name="1722">60</stringProp>
             </collectionProp>
-            <collectionProp name="-1865747060">
-              <stringProp name="48780">150</stringProp>
+            <collectionProp name="1070854005">
+              <stringProp name="1691">50</stringProp>
               <stringProp name="48780">150</stringProp>
               <stringProp name="48687">120</stringProp>
             </collectionProp>
@@ -164,13 +164,13 @@
         <hashTree/>
         <kg.apc.jmeter.timers.VariableThroughputTimer guiclass="kg.apc.jmeter.timers.VariableThroughputTimerGui" testclass="kg.apc.jmeter.timers.VariableThroughputTimer" testname="jp@gc - Throughput Shaping Timer" enabled="true">
           <collectionProp name="load_profile">
-            <collectionProp name="-751117643">
-              <stringProp name="1567">10</stringProp>
-              <stringProp name="48780">150</stringProp>
+            <collectionProp name="56129312">
+              <stringProp name="49">1</stringProp>
+              <stringProp name="49">1</stringProp>
               <stringProp name="1722">60</stringProp>
             </collectionProp>
-            <collectionProp name="-1865747060">
-              <stringProp name="48780">150</stringProp>
+            <collectionProp name="-1226321029">
+              <stringProp name="1691">50</stringProp>
               <stringProp name="48780">150</stringProp>
               <stringProp name="48687">120</stringProp>
             </collectionProp>
